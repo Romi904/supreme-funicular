@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://share.creavite.co/DWWMrBzMR0zs9DaE.gif" height="100px"/></a>
 
 <div align=center>
-    <a href="https://github.com/Sabyasachi-Seal">
+    <a href="https://github.com/Romi904">
     <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
     </a>
  </div>
@@ -92,9 +92,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romi904&layout=compact&theme=tokyonight&hide_border=true&border_radius=20)](https://github.com/romi904/github-readme-stats)
 
 <div align=center>
-    <a href="https://github.com/Sabyasachi-Seal">
+    <a href="https://github.com/Romi904">
     <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
     </a>
  </div>
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="transform: translateX(35em)">
+ <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="transform: translateX(35em)">
 
+
+ <div align=center>
+   <a href="https://github.com/Sabyasachi-Seal">
+   <img align="center" alt="Footer" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/footer.svg"/>
+   <!-- <img align="center" alt="Footer" width=100% src="img/footer.svg" /> -->
+</div>
