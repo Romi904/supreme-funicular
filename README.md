@@ -100,7 +100,7 @@
 
 
  <div align=center>
-   <a href="https://github.com/Sabyasachi-Seal">
+   <a href="https://github.com/Romi904">
    <img align="center" alt="Footer" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/footer.svg"/>
    <!-- <img align="center" alt="Footer" width=100% src="img/footer.svg" /> -->
 </div>
